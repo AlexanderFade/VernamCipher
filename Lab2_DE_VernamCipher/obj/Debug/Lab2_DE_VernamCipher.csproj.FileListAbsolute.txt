@@ -1,0 +1,24 @@
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.exe.config
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.csprojResolveAssemblyReference.cache
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.exe
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.pdb
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.exe
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.pdb
+G:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.exe.config
+G:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.exe
+G:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.pdb
+G:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.exe
+G:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.pdb
+G:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.csprojResolveAssemblyReference.cache
+E:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.exe.config
+E:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.exe
+E:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.pdb
+E:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.exe
+E:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.pdb
+E:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.csprojResolveAssemblyReference.cache
+I:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.exe.config
+I:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.exe
+I:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.pdb
+I:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.exe
+I:\Lab1_VernamCipher\Lab2_DE_VernamCipher\bin\Debug\Lab2_DE_VernamCipher.pdb
+I:\Lab1_VernamCipher\Lab2_DE_VernamCipher\obj\Debug\Lab2_DE_VernamCipher.csprojResolveAssemblyReference.cache

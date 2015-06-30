@@ -1,0 +1,12 @@
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\bin\Debug\Lab1_VernamCipher_v1_2.exe.config
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\bin\Debug\Lab1_VernamCipher_v1_2.exe
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\bin\Debug\Lab1_VernamCipher_v1_2.pdb
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\obj\Debug\Lab1_VernamCipher_v1_2.csprojResolveAssemblyReference.cache
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\obj\Debug\Lab1_VernamCipher_v1_2.exe
+D:\Users\AlexFade\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\obj\Debug\Lab1_VernamCipher_v1_2.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\bin\Debug\Lab1_VernamCipher_v1_2.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\obj\Debug\Lab1_VernamCipher_v1_2.exe
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\obj\Debug\Lab1_VernamCipher_v1_2.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\bin\Debug\Lab1_VernamCipher_v1_2.exe
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\bin\Debug\Lab1_VernamCipher_v1_2.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Lab1_VernamCipher\Lab1_VernamCipher_v1_2\obj\Debug\Lab1_VernamCipher_v1_2.csprojResolveAssemblyReference.cache
